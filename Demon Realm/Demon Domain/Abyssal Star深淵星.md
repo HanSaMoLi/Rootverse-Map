@@ -1,5 +1,8 @@
 ![IMG_7931](https://github.com/BRC1024Rootverse/Rootverse/assets/170728893/0ec83d16-ac91-4fb0-a3f9-ad6761ddcee5)
 
+<img src="https://github.com/BRC1024Rootverse/Rootverse/assets/170728893/0ec83d16-ac91-4fb0-a3f9-ad6761ddcee5" width="300" />
+
+
 ## Abyssal Star
 - **Demon City**: Located in the northwest, this is the territory of the Slaughter Demons. The city is dry and desolate, set in a barren landscape. Its buildings are primarily constructed from obsidian and rock. The area around the city is covered in thick ash, creating an oppressive and powerful visual impact.
 - **Shadow Tower City**: Situated in the central region, this city is built over a massive fissure, perpetually shrouded in a layer of dark clouds with dim lighting. The towering spires symbolize the Fallen Demons' pursuit of power and desire for conquest. The Gothic-style palace with its spires and eerie decorations serves as a warning to outsiders.
