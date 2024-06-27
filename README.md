@@ -7,17 +7,18 @@ You can explore the Rootverse Map.
 
 If you want to edit files, please refer to the **Contributor Guide** to help you with modifying and submitting changes to the project.
 
-Co-builders will have a chance to get RootsBuilder DAO **OG Pass**! In the future, we will airdrop **Landmarks** to the community builders.
+Co-builders will have a chance to get RootBuilder DAO **OG Pass**! In the future, we will airdrop **Landmarks** to the Rootverse holders.
 
-# 欢迎进入Rootverse的世界
 
-你可以在这里查看Rootverse Map。
-1. **Rootverse** 拥有四个界，可以点击 **Demon Realm**、**Divine Realm**、**Myriad Worlds** 和 **Underworld Realm** 文件夹进行查看和修改。
-2. 点击 **Rootverse Landmark** 查看Root元宇宙地图的地标：地标分为A、B、C三个等级（稀有度从高到低）。
+# 歡迎進入Rootverse的世界
 
-如果你想编辑文件，可以在 **Contributor Guide** 查看协作者指南，帮助你对项目进行修改和提交。
+你可以在這裡查看Rootverse Map。
+1. **Rootverse**擁有四個界，可以點擊 **Demon Realm**、**Divine Realm**、**Myriad Worlds** 和 **Underworld Realm** 文件夾進行查看和修改。
+2. 點擊 **Rootverse Landmark** 查看Root元宇宙地圖的地標：地標分為A、B、C三個等級（稀有度從高到低）。
 
-福利：共建者会有机会获得**Root的OG卡**一张哦！后期，我们也会将**地标**空投给社区的建设者。
+如果你想編輯文件，可以在 **Contributor Guide** 查看協作者指南，幫助你對項目進行修改和提交。
+
+福利：共建者會有機會獲得Root的**OG卡**哦！後期，我們計劃將**地標**空投給Rootverse的持有者。
 
 
 
