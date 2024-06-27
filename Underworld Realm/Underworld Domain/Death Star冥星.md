@@ -1,5 +1,7 @@
-![IMG_7930](https://github.com/BRC1024Rootverse/Rootverse/assets/170728893/17505409-3403-4e6d-b3cc-08a7c606f6ae)
 
+<p align="center">
+  <img src="https://github.com/BRC1024Rootverse/Rootverse/assets/170728893/17505409-3403-4e6d-b3cc-08a7c606f6ae" width="550" />
+  
 ## Death Star
 - **City of Silence**: Located in the east, this is a massive tomb city themed around silence and death. Zombies and skeletons wander aimlessly here. The city is designed as a maze, making it easy to enter but difficult to leave. At the center of the city is a spot from which mist continually spreads, forming the core of the City of Silence. The city's architecture features towering spires and crumbling walls.
 - **Spectral Swamp**: Situated in the west, this swamp emits a faint blue-white glow, which is especially visible at night. The swamp is surrounded by mist-covered hills of silence, with strange luminescent plants growing on them, providing the only natural light source. Legends say the spring water in the swamp has the power to resurrect the dead, but it also harbors great dangers.
