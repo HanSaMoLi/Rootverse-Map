@@ -1,6 +1,6 @@
-![IMG_7931](https://github.com/BRC1024Rootverse/Rootverse/assets/170728893/0ec83d16-ac91-4fb0-a3f9-ad6761ddcee5)
 
-<img src="https://github.com/BRC1024Rootverse/Rootverse/assets/170728893/0ec83d16-ac91-4fb0-a3f9-ad6761ddcee5" width="300" />
+<p align="center">
+  <img src="https://github.com/BRC1024Rootverse/Rootverse/assets/170728893/0ec83d16-ac91-4fb0-a3f9-ad6761ddcee5" width="550" />
 
 
 ## Abyssal Star
