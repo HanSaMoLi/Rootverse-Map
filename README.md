@@ -7,7 +7,7 @@ You can explore the Rootverse Map.
 
 If you want to edit files, please refer to the **Contributor Guide** to help you with modifying and submitting changes to the project.
 
-Co-builders will have a chance to get RootsBuilder DAO OG Pass! In the future, we will airdrop "landmarks" to the community builders.
+Co-builders will have a chance to get RootsBuilder DAO **OG Pass**! In the future, we will airdrop **Landmarks** to the community builders.
 
 # 欢迎进入Rootverse的世界
 
@@ -17,7 +17,7 @@ Co-builders will have a chance to get RootsBuilder DAO OG Pass! In the future, w
 
 如果你想编辑文件，可以在 **Contributor Guide** 查看协作者指南，帮助你对项目进行修改和提交。
 
-福利：共建者会有机会获得Root的OG卡一张哦！后期，我们也会将“地标”空投给社区的建设者。
+福利：共建者会有机会获得**Root的OG卡**一张哦！后期，我们也会将**地标**空投给社区的建设者。
 
 
 
